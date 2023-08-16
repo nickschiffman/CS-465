@@ -1,16 +1,14 @@
 #Architecture
 
-Compare and contrast the types of frontend development you used in your full stack project, including Express HTML, JavaScript, and the single-page application (SPA).
-Why did the backend use a NoSQL MongoDB database?
+In this project, I employed both server-rendered frontends using Express, HTML, and JavaScript, as well as an approach with dynamic rendering via external frameworks. For the backend, a NoSQL MongoDB database was chosen due to its flexibility in handling diverse data structures and its ability to scale to accommodate potential growth.
 
 #Functionality
 
-How is JSON different from Javascript and how does JSON tie together the frontend and backend development pieces?
-Provide instances in the full stack process when you refactored code to improve functionality and efficiencies, and name the benefits that come from reusable user interface (UI) components.
+JSON is a data storing format usually used to connect the frontend and backend, and during the full stack development process, code could be reused to optimize functionality and higher efficiency, also optimizing development time.
 
 #Testing
 
-Methods for request and retrieval necessitate various types of API testing of endpoints, in addition to the difficulties of testing with added layers of security. Explain your understanding of methods, endpoints, and security in a full stack application.
+In a full-stack application, methods are usually related to web actions and are used to interact with server backends and test the backend functionality.
 
 #Reflection
 
